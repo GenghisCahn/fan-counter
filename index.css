@@ -1,7 +1,7 @@
 body {
     background-image: url("old-trafford.jpg");
     background-size: cover;
-    font-family: Verdana, Geneva, Tahoma, sans-serif 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
     height: 100vh;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: #e56b6f;
+    color: #ffffff;
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
